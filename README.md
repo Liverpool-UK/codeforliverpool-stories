@@ -6,7 +6,7 @@ It's a simple Text Adventure about #codeforliverpool. It's to prototype a story 
 
 You can render any old `html` in a Twine story. It might be fun to insert some implementations of the other tools #codeforliverpool make inside the story later.
 
-It's made using [Twine 2](https://bitbucket.org/klembot/twinejs). You can [use it here](http://twinery.org/) and can find out about <a href="http://twine2.neocities.org/" target="_blank">how to use Twine2 here</a>.
+It's made using [Twine 2](https://bitbucket.org/klembot/twinejs). You can [use it here](http://twinery.org/) and can find out about <a href="http://twine2.neocities.org/" target="_blank">how to use Twine 2 here</a>.
 
 ## QuickStart
 
@@ -18,7 +18,7 @@ You can `import` the `codeforliverpool_archive.html` file into the Twine 2 App e
 
 You might prefer to make it in [Twine 1](https://github.com/tweecode/twine)
 
-Once it gets bigger we could upload it to the [Interactive Fiction Database]( but it's actually **Interacive non-fiction** so we are going to need another database. ;)
+Once it gets bigger we could upload it to the [Interactive Fiction Database](http://ifdb.tads.org/) but it's actually **Interacive non-fiction** so we are going to need another database. ;)
 
 ### Other Twine Games
 
