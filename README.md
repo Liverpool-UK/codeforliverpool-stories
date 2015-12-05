@@ -18,7 +18,7 @@ You can `import` the `codeforliverpool_archive.html` file into the Twine 2 App e
 
 You might prefer to make it in [Twine 1](https://github.com/tweecode/twine)
 
-Once it gets bigger we could upload it to the [Interactive Fiction Database](http://ifdb.tads.org/) but it's actually **Interacive non-fiction** so we are going to need another database. ;)
+Once it gets bigger we could upload it to the [Interactive Fiction Database](http://ifdb.tads.org/) but it's actually **Interactive non-fiction** so we are going to need another database. ;)
 
 ### Other Twine Games
 
