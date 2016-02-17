@@ -10,7 +10,7 @@ It's made using [Twine 2](https://bitbucket.org/klembot/twinejs). You can [use i
 
 ## QuickStart
 
-Play it [here](http://whitcraft.uk/codeforliverpool.html)
+Play it [here](http://domesticscience.org.uk/codeforliverpool.html)
 
 ## Contribute
 
